@@ -1,6 +1,6 @@
 <!---
  suffix: "(develop)"
- assets: "http://rawgit.com/polyestr/NDon/assets"
+ # assets: "https://rawgit.com/polyestr/NDon/assets"
 --->
 <!--%docs/README.md%-->
 <!--	*** THIS FILE IS DYNAMICALLY GENERATED ***	-->
@@ -35,8 +35,8 @@ Package publishing recipes used by the Polyestr application framework.
 <?!-->
 
 <!--?!?-->
-[asset-1]: http://rawgit.com/polyestr/NDon/assets/logo.svg
+[asset-1]: assets/logo.svg
 
 ---
-Last Updated: Thursday, October 26, 2017, 8:22:16 PM UTC
+Last Updated: Thursday, October 26, 2017, 7:47:35 PM UTC
 <!--?!-->
