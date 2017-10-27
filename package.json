@@ -1,0 +1,30 @@
+{
+    "name": "ndon",
+    "displayName": "NDon",
+    "glyph": "ΨN",
+    "version": "0.0.0-develop",
+    "description": "Package publishing recipes used by the Polyestr application framework.",
+    "author": "Saleh Abdel Motaal <saleh@grasppe.com>",
+    "license": "MIT",
+    "main": "lib/index",
+    "types": "lib/index.d.ts",
+    "repository": {
+        "url": "https://github.com/polyestr/ndon",
+        "type": "git"
+    },
+    "scripts": {
+        "md~": "mdon~ *.md",
+        "md": "mdon *.md",
+    },
+    "devDependencies": {
+        "mdon": "^1.0.0-alpha"
+    },
+    "publishConfig": {
+        "access": "private"
+    },
+    "keywords": [
+        "package-management",
+        "package-publishing",
+        "tooling"
+    ]
+}
