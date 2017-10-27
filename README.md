@@ -1,6 +1,6 @@
 <!---
  suffix: "(develop)"
- # assets: "https://cdn.rawgit.com/polyestr/ndon/assets"
+ # assets: "https://rawgit.com/polyestr/NDon/assets"
 --->
 <!--%docs/README.md%-->
 <!--	*** THIS FILE IS DYNAMICALLY GENERATED ***	-->
